@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Research Assistant",
+    "company": "University of Windsor",
+    "time": "September 2023 - Present",
+    "points": [
+      {
+        "text": "Conducted research and development in <b>robotics, sensors, and computer vision.</b>"
+      },
+      {
+        "text": "Enhanced robot maze track, increasing size by <b>90%</b> and introducing new environmental decorations."
+      }
+    ]
+  },
+  {
+    "title": "Manuscript Reviewer",
+    "company": "Manning Publications",
+    "time": "December 2023 - Present",
+    "points": [
+      {
+        "text": "Reviewed <b>Neural Networks</b> section of liveproject <b>Four AI Algorithm Projects</b> by Rod Stephens."
+      }
+    ]
+  },
+  {
+    "title": "Kitchen Staff",
+    "company": "Loose Goose RestoPub",
+    "time": "May 2022 - August 2022",
+    "points": [
+      {
+        "text": "Developed <b>teamwork</b> and <b>communication</b> skills in a <b>fast-paced</b> environment."
+      },
+      {
+        "text": "Worked with a team of <b>10+</b> to serve <b>100+</b> customers per day."
+      }
+    ]
+  },
+  {
+    "title": "President",
+    "company": "University of Windsor Board Games Club (UWBGC)",
+    "time": "February 2021 - June 2022",
+    "points": [
+      {
+        "text": "Grew club membership to <b>300+</b> members with <b>in-person, DnD, MTG, and online</b> events"
+      },
+      {
+        "text": "<b>Most active</b> club in the <b>University of Windsor</b> with <b>100+</b> events per year"
+      }
+    ]
+  }
+]

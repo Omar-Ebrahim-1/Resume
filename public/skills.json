@@ -1,0 +1,10 @@
+[
+  {
+    "type": "Development",
+    "list": "Java, Ruby, PostGreSQL, MongoDB, HTML, CSS, Javascript, React, Svelte, Kotlin"
+  },
+  {
+    "type": "Operations",
+    "list": "Python, Go, Groovy, Bash, Linux, AWS, Docker, Kubernetes, Helm, Istio, Terraform, Ansible, Nginx, Jenkins, Artifactory, Prometheus, Grafana"
+  }
+]
