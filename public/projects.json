@@ -4,10 +4,10 @@
     "link": "https://github.com/Omar-Ebrahim-1/PuppyPi",
     "points": [
       {
-        "text": "Autonomous robot vehicle that navigates a maze and avoids obstacles with computer vision"
+        "text": "Quadrepedal robot dog that can be controlled with a remote control or autonomously with computer vision"
       },
       {
-        "text": "Developed for research to encorporate machine learning into the navigation system of vehicles"
+        "text": "Developed for research in data acquisition of various surfaces and terrains to optimize quadrapedal robot navigation"
       },
       {
         "text": "Created using <b>Python and Raspberry Pi</b>"
@@ -34,10 +34,10 @@
     "link": "https://github.com/Omar-Ebrahim-1/Thermodynamics",
     "points": [
       {
-        "text": "Autonomous robot vehicle that navigates a maze and avoids obstacles with computer vision"
+        "text": "Tube-in-tube heat exchanger to cool an ethylene glycol water mixture"
       },
       {
-        "text": "Developed for research to encorporate machine learning into the navigation system of vehicles"
+        "text": "Investigated the effect of inlet temperature on the required mass flow rate in a heat exchanger"
       },
       {
         "text": "Created using <b>MATLAB and LaTeX</b>"
@@ -49,10 +49,10 @@
     "link": "https://github.com/Omar-Ebrahim-1/Stress-Analysis",
     "points": [
       {
-        "text": "Autonomous robot vehicle that navigates a maze and avoids obstacles with computer vision"
+        "text": "Mechanics of Materials analysis of principle stresses and strains, deflection, and buckling effects"
       },
       {
-        "text": "Developed for research to encorporate machine learning into the navigation system of vehicles"
+        "text": "Investigated the effect of various loading conditions on the stress and strain of cantilever beams"
       },
       {
         "text": "Created using <b>Excel and LaTeX</b>"
@@ -64,7 +64,7 @@
     "link": "https://github.com/Omar-Ebrahim-1/Dynamics",
     "points": [
       {
-        "text": "Engineered a floating arm trebuchet optimized for maximum distance, employed in the siege of Sterling Castle."
+        "text": "Floating arm trebuchet optimized for maximum distance, employed in the siege of Sterling Castle."
       },
       {
         "text": "Achieved a projectile launch of <b>7+</b> meters resulting in the destruction of <b>80%</b> of Sterling Castle."
@@ -76,13 +76,13 @@
   },
   {
     "title": "Iron Ring",
-    "link": "https://github.com/Omar-Ebrahim-1/Dynamics",
+    "link": "https://github.com/Omar-Ebrahim-1/Iron-Ring",
     "points": [
       {
-        "text": "Engineered a floating arm trebuchet optimized for maximum distance, employed in the siege of Sterling Castle."
+        "text": "Manufactured an iron ring using Drill Chucks, Parting Tools, and Live Centers"
       },
       {
-        "text": "Achieved a projectile launch of <b>7+</b> meters resulting in the destruction of <b>80%</b> of Sterling Castle."
+        "text": "Achieved a surface finish of <b>0.8</b> micrometers and a dimensional tolerance of <b>0.1</b> millimeters"
       },
       {
         "text": "Created using <b>Lathe</b>"
@@ -94,10 +94,10 @@
     "link": "https://github.com/Omar-Ebrahim-1/Robot-Car-Track",
     "points": [
       {
-        "text": "Autonomous robot vehicle that navigates a maze and avoids obstacles with computer vision"
+        "text": "Robot car track used in testing of autonomous robot cars for the University of Windsor Mechatronics lab"
       },
       {
-        "text": "Developed for research to encorporate machine learning into the navigation system of vehicles"
+        "text": "Enhanced robot car track, increasing size by <b>90%</b> and introducing new environmental decorations"
       },
       {
         "text": "Created using <b>Inkscape</b>"
