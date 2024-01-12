@@ -1,10 +1,14 @@
 [
   {
+    "type": "Engineering",
+    "list": "CATIA, AutoCAD, KiCAD, Excel, MATLAB, LaTeX, C/C++, Arduino, Raspberry Pi"
+  },
+  {
     "type": "Development",
     "list": "Java, Ruby, PostGreSQL, MongoDB, HTML, CSS, Javascript, React, Svelte, Kotlin"
   },
   {
-    "type": "Operations",
-    "list": "Python, Go, Groovy, Bash, Linux, AWS, Docker, Kubernetes, Helm, Istio, Terraform, Ansible, Nginx, Jenkins, Artifactory, Prometheus, Grafana"
+    "type": "IT Operations",
+    "list": "Python, Go, Groovy, Bash, Linux, AWS, Docker, Kubernetes, Helm, Istio, Terraform, Ansible, Nginx, Jenkins, Prometheus, Grafana"
   }
 ]
