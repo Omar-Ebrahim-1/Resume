@@ -1,5 +1,20 @@
 [
   {
+    "title": "PuppyPi",
+    "link": "https://github.com/Omar-Ebrahim-1/PuppyPi",
+    "points": [
+      {
+        "text": "Autonomous robot vehicle that navigates a maze and avoids obstacles with computer vision"
+      },
+      {
+        "text": "Developed for research to encorporate machine learning into the navigation system of vehicles"
+      },
+      {
+        "text": "Created using <b>Python and Raspberry Pi</b>"
+      }
+    ]
+  },
+  {
     "title": "Cyberbot",
     "link": "https://github.com/Omar-Ebrahim-1/Cyberbot",
     "points": [
@@ -10,82 +25,37 @@
         "text": "Developed for research to encorporate machine learning into the navigation system of vehicles"
       },
       {
-        "text": "Created using <b>Python and Pixy2 Camera</b>"
+        "text": "Created using <b>Python, Micro:bit and Pixy2 Camera</b>"
       }
     ]
   },
   {
-    "title": "Reminder-CLI",
-    "link": "https://github.com/Omar-Ebrahim-1/Reminder-CLI",
+    "title": "Heat Exchanger",
+    "link": "https://github.com/Omar-Ebrahim-1/Thermodynamics",
     "points": [
       {
-        "text": "Lightweight command-line tool for setting time-based reminders and receiving desktop notifications in the terminal"
+        "text": "Autonomous robot vehicle that navigates a maze and avoids obstacles with computer vision"
       },
       {
-        "text": "Effortlessly schedule time-based reminders directly from your terminal"
+        "text": "Developed for research to encorporate machine learning into the navigation system of vehicles"
       },
       {
-        "text": "Created using <b>Go</b>"
+        "text": "Created using <b>MATLAB and LaTeX</b>"
       }
     ]
   },
   {
-    "title": "Password Generator",
-    "link": "https://github.com/Omar-Ebrahim-1/Password-Generator",
+    "title": "Stress Analysis",
+    "link": "https://github.com/Omar-Ebrahim-1/Stress-Analysis",
     "points": [
       {
-        "text": "Simple command-line password generator written in Bash"
+        "text": "Autonomous robot vehicle that navigates a maze and avoids obstacles with computer vision"
       },
       {
-        "text": "Generate strong and secure passwords with customizable options"
+        "text": "Developed for research to encorporate machine learning into the navigation system of vehicles"
       },
       {
-        "text": "Created using <b>Bash and OpenSSL</b>"
-      }
-    ]
-  },
-  {
-    "title": "QR Code Generator",
-    "link": "https://github.com/Omar-Ebrahim-1/QR-Code-Generator",
-    "points": [
-      {
-        "text": "Simple web-based QR Code generator that allows users to create QR codes for texts or URLs"
-      },
-      {
-        "text": "Create customizable QR codes effortlessly for diverse applications"
-      },
-      {
-        "text": "Created using <b>HTML, CSS, and JavaScript</b>"
-      }
-    ]
-  },
-  {
-    "title": "ATM Machine",
-    "link": "https://github.com/Omar-Ebrahim-1/ATM-Machine",
-    "points": [
-      {
-        "text": "Simple command-line ATM machine simulation"
-      },
-      {
-        "text": "Perform basic banking operations, such as checking account balance, withdrawing funds, and depositing funds"
-      },
-      {
-        "text": "Created using <b>Java</b>"
-      }
-    ]
-  },
-  {
-    "title": "FloModoro",
-    "link": "https://github.com/Omar-Ebrahim-1/FloModoro",
-    "points": [
-      {
-        "text": "Android stopwatch application that uses the Flowmodoro technique to help users focus on their work"
-      },
-      {
-        "text": "Easily export Flowmodoro sessions history to <b>CSV</b> files for data analytics"
-      },
-      {
-        "text": "Created using <b>Kotlin and Android Studio</b>"
+        "text": "Created using <b>Excel and LaTeX</b>"
       }
     ]
   },
@@ -100,7 +70,37 @@
         "text": "Achieved a projectile launch of <b>7+</b> meters resulting in the destruction of <b>80%</b> of Sterling Castle."
       },
       {
-        "text": "Acquired valuable hands-on experience and honed technical writing skills using <b>LaTeX</b>."
+        "text": "Created using <b>CATIA and LaTeX</b>"
+      }
+    ]
+  },
+  {
+    "title": "Iron Ring",
+    "link": "https://github.com/Omar-Ebrahim-1/Dynamics",
+    "points": [
+      {
+        "text": "Engineered a floating arm trebuchet optimized for maximum distance, employed in the siege of Sterling Castle."
+      },
+      {
+        "text": "Achieved a projectile launch of <b>7+</b> meters resulting in the destruction of <b>80%</b> of Sterling Castle."
+      },
+      {
+        "text": "Created using <b>Lathe</b>"
+      }
+    ]
+  },
+  {
+    "title": "Robot Car Track",
+    "link": "https://github.com/Omar-Ebrahim-1/Robot-Car-Track",
+    "points": [
+      {
+        "text": "Autonomous robot vehicle that navigates a maze and avoids obstacles with computer vision"
+      },
+      {
+        "text": "Developed for research to encorporate machine learning into the navigation system of vehicles"
+      },
+      {
+        "text": "Created using <b>Inkscape</b>"
       }
     ]
   }
