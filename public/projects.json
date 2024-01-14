@@ -1,4 +1,19 @@
 [
+    {
+    "title": "PuppyPi",
+    "link": "https://github.com/Omar-Ebrahim-1/PuppyPi",
+    "points": [
+      {
+        "text": "Quadrepedal robot dog that can be controlled with a remote control or autonomously with computer vision"
+      },
+      {
+        "text": "Developed for research in data acquisition of various surfaces and terrains to optimize quadrapedal robot navigation"
+      },
+      {
+        "text": "Created using <b>Python and Raspberry Pi</b>"
+      }
+    ]
+  },
   {
     "title": "Cyberbot",
     "link": "https://github.com/Omar-Ebrahim-1/Cyberbot",
@@ -86,21 +101,6 @@
       },
       {
         "text": "Created using <b>Kotlin and Android Studio</b>"
-      }
-    ]
-  },
-  {
-    "title": "Trebuchet",
-    "link": "https://github.com/Omar-Ebrahim-1/Dynamics",
-    "points": [
-      {
-        "text": "Engineered a floating arm trebuchet optimized for maximum distance, employed in the siege of Sterling Castle."
-      },
-      {
-        "text": "Achieved a projectile launch of <b>7+</b> meters resulting in the destruction of <b>80%</b> of Sterling Castle."
-      },
-      {
-        "text": "Acquired valuable hands-on experience and honed technical writing skills using <b>LaTeX</b>."
       }
     ]
   }
