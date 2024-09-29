@@ -1,11 +1,11 @@
 [
   {
     "type": "Engineering",
-    "list": "CATIA, Inventor, AutoCAD, Excel, MATLAB, LaTeX, C/C++, Arduino, Raspberry Pi"
+    "list": "CATIA, Inventor, AutoCAD, SAP, Excel, MATLAB, LaTeX, C/C++, Arduino"
   },
   {
     "type": "Development",
-    "list": "Java, Ruby, PostgreSQL, MongoDB, HTML, CSS, Javascript, React, Svelte, Kotlin"
+    "list": "Java, Ruby, PostgreSQL, MongoDB, HTML, CSS, Javascript, React"
   },
   {
     "type": "IT Operations",

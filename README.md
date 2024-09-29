@@ -23,6 +23,8 @@ Navigate to [localhost:8080](http://localhost:8080).
 
 Yes, this is a website. BUT, it is also a resume. To turn this into an actual file, simply 'print' the webpage, and save to PDF!
 
+Make sure to remove margins and headers in the print!
+
 ## Building and running in production mode
 
 To create an optimised version of the app:

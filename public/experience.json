@@ -1,8 +1,21 @@
 [
   {
+    "title": "Supplier Quality Engineer",
+    "company": "Valiant TMS",
+    "time": "May 2024 - September 2024",
+    "points": [
+      {
+        "text": "Processed and resolved <b>NCRs</b> for <b>BIW</b>"
+      },
+      {
+        "text": "Utilized <b>SAP</b> for weekly supplier report generation"
+      }
+    ]
+  },
+  {
     "title": "Research Assistant",
     "company": "University of Windsor",
-    "time": "September 2023 - Present",
+    "time": "September 2023 - April 2024",
     "points": [
       {
         "text": "Conducted research and development in <b>robotics, sensors, and computer vision</b>"
@@ -22,19 +35,6 @@
       },
       {
         "text": "Reviewed book <b>Django in Action</b> by Christopher Trudeau"
-      }
-    ]
-  },
-  {
-    "title": "Kitchen Staff",
-    "company": "Loose Goose RestoPub",
-    "time": "May 2022 - August 2022",
-    "points": [
-      {
-        "text": "Developed <b>teamwork</b> and <b>communication</b> skills in a <b>fast-paced</b> environment"
-      },
-      {
-        "text": "Worked with a team of <b>10+</b> to serve <b>100+</b> customers daily"
       }
     ]
   },
