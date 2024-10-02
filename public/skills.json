@@ -5,10 +5,10 @@
   },
   {
     "type": "Development",
-    "list": "Java, Ruby, PostgreSQL, MongoDB, HTML, CSS, Javascript, React"
+    "list": "Java, Ruby, PostgreSQL, MongoDB, HTML, CSS, Javascript, React, Next.js"
   },
   {
     "type": "IT Operations",
-    "list": "Python, Go, Groovy, Bash, Linux, AWS, Docker, Kubernetes, Helm, Istio, Terraform, Ansible, Nginx, Jenkins, Prometheus, Grafana"
+    "list": "Python, Go, Bash, Linux, AWS, Docker, Kubernetes, Terraform, Ansible"
   }
 ]
