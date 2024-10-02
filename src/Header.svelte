@@ -17,15 +17,15 @@
     <span>
         {info.phone}
     </span>
-    <span>
-        <a href="https://{info.website}" target="_blank">{"Website"}</a>
-    </span>
-    <span>
-        <a href="https://github.com/{info.github}" target="_blank">{"GitHub"}</a>
-    </span>
-    <span>
-        <a href="https://linkedin.com/in/{info.linkedin}" target="_blank">{"LinkedIn"}</a>
-    </span>
+    <!-- <span> -->
+    <!--     <a href="https://{info.website}" target="_blank">{"Website"}</a> -->
+    <!-- </span> -->
+    <!-- <span> -->
+    <!--     <a href="https://github.com/{info.github}" target="_blank">{"GitHub"}</a> -->
+    <!-- </span> -->
+    <!-- <span> -->
+    <!--     <a href="https://linkedin.com/in/{info.linkedin}" target="_blank">{"LinkedIn"}</a> -->
+    <!-- </span> -->
 </div>    
 {/await}
 
