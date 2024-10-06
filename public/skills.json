@@ -5,6 +5,6 @@
   },
   {
     "type": "Operations",
-    "list": "Python, Go, Groovy, Bash, Linux, AWS, Docker, Kubernetes, Helm, Istio, Terraform, Ansible, Nginx, Jenkins, Artifactory, Prometheus, Grafana"
+    "list": "Python, Go, Groovy, Bash, Linux, AWS, Docker, Kubernetes, Istio, Terraform, Ansible, Nginx, Jenkins, Artifactory, Prometheus, Grafana"
   }
 ]
